@@ -1,5 +1,10 @@
 # README
 
+A very basic blog app, without CSS or HTML. For practice. 
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
